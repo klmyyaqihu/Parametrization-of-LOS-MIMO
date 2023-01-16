@@ -1,4 +1,4 @@
-## test_mimochan_rotated_mutilp_freq_Case3_NLOS.py
+## test_mimochan_rotated_multi_freq_Case3_NLOS.py
 compute mimo capacity over rotated angles
 
 ## model/mimochan.py
