@@ -9,4 +9,5 @@ from `model/mpchan.py`.
 The function `comp_cmplx_gain` inside `model/functions.py` is where we compute
 a muti-path channel complex gain.
 
-#### Yaqi
+#### @Date: 01/16/2022
+#### @Yaqi
